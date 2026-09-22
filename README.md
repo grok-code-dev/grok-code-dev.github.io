@@ -20,4 +20,5 @@ Grok Build is a terminal coding agent that xAI announced on 25 May 2026, availab
 
 *This is an independent page with no affiliation to xAI or any other vendor named here, and all product names and trademarks belong to their respective owners.*
 
+
 _Last reviewed: 2026-09-22_
